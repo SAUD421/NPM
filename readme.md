@@ -1,0 +1,1 @@
+A simple math-helper package that will be used to Calculate factorials,GCD/LCM , Prime number checkers and generates Fibonacci sequence.

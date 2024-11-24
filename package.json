@@ -1,0 +1,22 @@
+{
+  "name": "math-helper-tools",
+  "version": "1.0.0",
+  "description": "A package with simple math utilities. Calculate factorials,GCD/LCM , Prime number checkers and Fibonacci sequence generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SAUD421/NPM.git"
+  },
+  "keywords": [
+    "math-helper"
+  ],
+  "author": "saud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SAUD421/NPM/issues"
+  },
+  "homepage": "https://github.com/SAUD421/NPM#readme"
+}
